@@ -53,7 +53,7 @@ Created and optimized PPC campaigns to increase visibility and conversions. Hand
 
 - 📧 [joseantonio.morada@gmail.com](mailto:joseantonio.morada@gmail.com)
 - 🧠 [Download My Resume](https://docs.google.com/document/d/1COlMvk8FZDg5CKn8w0ZAJMhAQzZYq2bx8Q-Ly7NMYbE/edit)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-antonio-morada-036bb9199/)
 ---
 
 > *"For those who come after." - Gustave, Expedition 33*
