@@ -52,12 +52,12 @@ Currently, I’m expanding my focus into structured Quality Assurance, Data Anal
 - Gained experience managing time, tools, and customer satisfaction remotely
 
 ## 🎓 Certifications
-- ✅ Software Development Life Cycle (SDLC) – LinkedIn Learning
-- ✅ SQL Essential Training, Jira Software, Postman – LinkedIn Learning
-- ✅ NCII – Computer Systems Servicing (TESDA, 2018)
-- ✅ PhilNITS IT Passport Certification
-- ✅ Cybersecurity Fundamentals – Southern Luzon Conference
-- ✅ Basic Occupational Safety and Health (DOLE)
+ ✅ Software Development Life Cycle (SDLC) – LinkedIn Learning
+ ✅ SQL Essential Training, Jira Software, Postman – LinkedIn Learning
+ ✅ NCII – Computer Systems Servicing (TESDA, 2018)
+ ✅ PhilNITS IT Passport Certification
+ ✅ Cybersecurity Fundamentals – Southern Luzon Conference
+ ✅ Basic Occupational Safety and Health (DOLE)
 
 ## 💡 Strengths & Soft Skills
 - Excellent English (C2 – Written & Verbal)
