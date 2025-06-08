@@ -37,7 +37,7 @@ Currently, I’m expanding my focus into structured Quality Assurance, Data Anal
 - Other Skills	GitHub, Confluence, CRM Systems, Customer Support Tools
 
 ### 💼 Experience Snapshot
-##🔷 Amazon – Project Manager / Virtual Assistant / Analyst
+### 🔷 Amazon – Project Manager / Virtual Assistant / Analyst
 - Managed listings, flagged compliance issues, and tracked bugs
 - Generated and interpreted sales reports, PPC data, and customer feedback
 - Used JIRA and Confluence for sprint planning, task tracking, and bug resolution
