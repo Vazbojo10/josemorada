@@ -1,79 +1,70 @@
 # 👋 Hi, I'm Jose Antonio M. Morada
 
-🧪 **Aspiring Software Test Analyst** | 💻 BPO & Tech Background | 🔍 Detail-Oriented | 🌐 Based in the Philippines
+💻 Tech-Savvy Professional | 🧪 QA Tester | 📊 Data Analyst | 🧑‍💼 Virtual Assistant
+📍 Based in the Philippines | 🌍 Supporting Global Teams (U.S. & Canada)
 
-Welcome to my GitHub portfolio! I'm transitioning into software testing with hands-on experience in troubleshooting, QA support, and project coordination from the BPO and tech sectors.
+Welcome to my GitHub portfolio! I’m a versatile and detail-oriented professional with a strong background in software testing, e-commerce operations, data analytics, and virtual assistance. Whether it's tracking bugs, analyzing sales trends, or managing admin tasks remotely, I bring focus, adaptability, and high-performance work ethic to every team I support.
 
 ---
 
 ## 🚀 About Me
 
-I specialize in identifying, reporting, and preventing software bugs through manual testing practices. I’ve supported fast-paced teams using tools like JIRA and Postman and am now building structured QA skills aligned with SDLC and Agile methodologies.
+I have years of experience in the BPO, e-commerce, and tech industries. From managing Amazon accounts and running sales reports to performing QA checks and customer support, I’ve helped businesses run more efficiently and deliver great results.
+Currently, I’m expanding my focus into structured Quality Assurance, Data Analytics, and long-term Virtual Assistant roles. I'm committed to continuous learning and ready to take on new challenges that let me grow while adding value.
 
-### 🔎 Focus Areas:
-- Manual Testing & Defect Reporting  
-- SDLC, Agile & Scrum Workflows  
-- Functional and Exploratory Testing  
-- API Testing via Postman  
-- Test Case Documentation
+### 🔎 Core Focus Areas
+🧪 Quality Assurance
+- Manual Testing (Functional, Exploratory, Regression)
+- API Testing with Postman
+- Bug Tracking (JIRA), Test Case Writing, SDLC & Agile Workflows
 
----
+### 📊 Data Analysis
+- Data Cleaning & Validation (SQL, Excel, Sheets)
+- Sales & Business Performance Reporting (Amazon Analytics)
+- Basic Python for automation and analysis
 
-## 🛠️ Tools & Technologies
+### 🧑‍💼 Virtual Assistance
+- E-commerce Admin (Amazon listings, PPC tracking, report generation)
+- Customer Service via email, chat & remote tools
+- Calendar & Task Management, Research, Documentation
 
-- **Testing & QA**: Manual Testing, JIRA, Postman, Test Case Writing, Regression Testing  
-- **Languages/Queries**: SQL (PostgreSQL, MySQL), Python (basic)  
-- **Other Tools**: GitHub, Microsoft Excel, Google Sheets, Remote Desktop  
-- **Platforms**: Windows, CRM Systems  
-- **Frameworks**: SDLC, Agile/Scrum
+### 🛠️ Tools & Technologies
+- Category	Tools / Platforms
+- Testing & QA	Postman, JIRA, Test Case Docs, SDLC/Agile
+- Data Tools	SQL (PostgreSQL, MySQL), Excel, Google Sheets, Python (basic)
+- VA & Admin	Google Workspace, MS Office, Slack, Discord, Zoom, Trello, Remote Desktop
+- E-Commerce	Amazon Seller Central, Listing Optimization, PPC Reports
+- Other Skills	GitHub, Confluence, CRM Systems, Customer Support Tools
 
----
+### 💼 Experience Snapshot
+##🔷 Amazon – Project Manager / Virtual Assistant / Analyst
+- Managed listings, flagged compliance issues, and tracked bugs
+- Generated and interpreted sales reports, PPC data, and customer feedback
+- Used JIRA and Confluence for sprint planning, task tracking, and bug resolution
 
-## 💼 Experience
+### 🟧 BPO Support Roles (TaskUs, Teletech, Shadow VA, etc.)
+- Delivered tech support, insurance guidance, and emergency dispatch
+- Logged issues and built knowledge base resources
+- Supported U.S. and Canadian clients across healthcare, telecom, and service sectors
 
-### 🟦 Amazon – Project Manager  
-- Managed issue escalations related to listing errors and compliance defects  
-- Logged technical issues and collaborated with QA teams for issue resolution  
-- Used JIRA to track team performance and progress
-
-### 🟧 BPO Customer Support Specialist  
-- Troubleshot hardware/software issues via remote tools and email support  
-- Created issue logs and documented recurring bugs for tech handoff  
-- Assisted clients while maintaining customer satisfaction and ticket SLAs
-
----
-
-## 📁 QA Projects
-
-### 🧪 Exploratory Testing (E-Commerce Sample)
-- Developed a manual test plan for a mock online store  
-- Logged bugs and UI inconsistencies using Excel and standard test case format
-
-### 🧪 API Testing via Postman (Practice)
-- Created and executed tests on dummy REST APIs  
-- Validated response codes, payloads, and error handling logic
-
----
+## 🏠 Freelance & Family Business
+- Supported daily operations, communication, and backend tasks
+- Gained experience managing time, tools, and customer satisfaction remotely
 
 ## 🎓 Certifications
+✅ Software Development Life Cycle (SDLC) – LinkedIn Learning
+✅ SQL Essential Training, Jira Software, Postman – LinkedIn Learning
+✅ NCII – Computer Systems Servicing (TESDA, 2018)
+✅ PhilNITS IT Passport Certification
+✅ Cybersecurity Fundamentals – Southern Luzon Conference
+✅ Basic Occupational Safety and Health (DOLE)
 
-- **Software Development Life Cycle (SDLC)** – 2025  
-- **LinkedIn Learning** – Jira Software, Postman, SQL Essential Training  
-- **NCII – Computer Systems Servicing** (TESDA, 2018)  
-- **PhilNITS IT Passport Certification**  
-- **Cybersecurity Fundamentals** – Southern Luzon Conference  
-- **Basic Occupational Safety and Health (DOLE)**
-
----
-
-## 🧠 Additional Skills
-
-- Excellent English (C2 Level – Written & Verbal)  
-- Clear communicator and reliable teammate  
-- Fast learner with strong analytical and troubleshooting mindset  
-- Experience leading and collaborating in distributed teams
-
----
+## 💡 Strengths & Soft Skills
+- Excellent English (C2 – Written & Verbal)
+- Quick learner – adapts fast to new tools & environments
+- Strong problem-solving and analytical mindset
+- Reliable, organized, and detail-focused
+- Collaborative team player with remote work experience
 
 ## 📫 Let's Connect
 
