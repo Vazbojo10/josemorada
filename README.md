@@ -78,7 +78,6 @@ I specialize in identifying, reporting, and preventing software bugs through man
 ## 📫 Let's Connect
 
 📧 [joseantonio.morada@gmail.com](mailto:joseantonio.morada@gmail.com)  
-📄 [View Resume](https://docs.google.com/document/d/1COlMvk8FZDg5CKn8w0ZAJMhAQzZYq2bx8Q-Ly7NMYbE/edit)  
 💼 [LinkedIn](https://www.linkedin.com/in/jose-antonio-morada-036bb9199/)
 
 ---
